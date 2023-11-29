@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.exe
+D:\PatikaDev\Patika_Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+D:\PatikaDev\Patika_Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.dll
+D:\PatikaDev\Patika_Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.dll
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\refint\encapsulation.dll
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
